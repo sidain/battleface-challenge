@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\AuthenticationTest::testSuccesfullLogin":4},"times":{"Tests\\Unit\\ExampleTest::test_example":0.002,"Tests\\Feature\\ExampleTest::test_example":0.262,"Tests\\Feature\\AuthenticationTest::test_example":0.266,"Tests\\Feature\\AuthenticationTest::testSuccesfullLogin":0.032}}
