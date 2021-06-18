@@ -7,7 +7,8 @@ Php, Laravel, JWT-auth,SQLite
 This challenge was done with Laravel, 
 the database used was SQLite for simplicity( your php will need the extensions).
 
-The command "php artisan serve" should be enough to run it
+After downloading or pulling, a composer update will need to be run for dependencies, and trhen
+the command "php artisan serve" should be enough to run it, and finally, goto http://localhost:8000/
 
 main modified files:
 app\Models\AgeLoad.php
